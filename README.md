@@ -1,4 +1,4 @@
-![Banner](https://github.com/DevArt002/DevArt002/blob/master/img/banner.jpg)
+![Banner](https://github.com/supercoder42/Dev420/blob/main/img/banner.jpgg)
 
 ### Hello! 👋
 
@@ -9,7 +9,7 @@
 
    1. *Programming Languages*
    
-      Javascript, C#/.Net, Java, Python, C/C++ 
+      Javascript,Three js,  Vuejs, Reactjs, Laravel, wordpress, C/C++ 
       
    2. *Frontend dev skills* 
    
