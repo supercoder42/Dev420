@@ -1,4 +1,4 @@
-![Banner](https://github.com/supercoder42/Dev420/blob/main/img/banner.jpgg)
+![Banner](https://github.com/supercoder42/Dev420/blob/main/img/banner.jpg)
 
 ### Hello! 👋
 
